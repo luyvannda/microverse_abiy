@@ -1,4 +1,11 @@
-
+body{
+    background-color: beige;
+}
+@media (max-width: 600px) {
+    body {
+      background-color: rgb(198, 198, 198);
+    }
+  } 
 #header-img{
     width: 20%;
     height: auto;
