@@ -4,15 +4,31 @@
     height: auto;
     float: left;
 }
+#nav-bar{
+    position: fixed;
+    top: 0;
+}
 
 .nav-link{
     float: right;
     margin-right: 50px; 
 }
 
+
 h2 {
     font-size: medium;  
     text-align: center;
     position: relative;
     margin: auto;  
+}
+
+#video{
+    position: relative;
+    width: 60%;
+    height: auto;
+}
+
+.foot-link{
+    float: right;
+    margin-right: 10px;
 }
